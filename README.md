@@ -13,4 +13,4 @@ The reason Lithium is going public is because I believe that the nuking communit
 ## Credits
 - verlox - Main Developer
 - Russian Heavy - Developer
-https://github.com/user-attachments/assets/5d05a677-4e70-4f86-9f55-b30aa6633c86
+https://github.com/NotYourSyntax/Lithium-V4/blob/235356d0a17481c0a39eb64c7b6d9f2a9d3946a6/Preview.png
